@@ -17,11 +17,11 @@ song = {
 		}
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2 
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -44,11 +44,11 @@ song = {
 		}
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2 
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -71,11 +71,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -98,11 +98,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -125,11 +125,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -152,11 +152,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -179,11 +179,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -206,11 +206,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -233,11 +233,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -260,11 +260,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -287,11 +287,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -314,11 +314,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -341,11 +341,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -368,11 +368,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -395,11 +395,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -422,11 +422,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -449,11 +449,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -476,11 +476,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -503,11 +503,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -530,11 +530,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -557,11 +557,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -584,11 +584,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -611,11 +611,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -638,11 +638,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -665,11 +665,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -692,11 +692,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
@@ -719,11 +719,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { primary_culture = english }
+            NOT = { cultural_group = french }
         }
         modifier = {
             factor = 2
-            primary_culture = english
+            cultural_group = french
         }
     }
 }
