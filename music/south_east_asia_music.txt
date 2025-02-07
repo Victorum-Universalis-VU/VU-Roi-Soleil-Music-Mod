@@ -1,0 +1,11 @@
+#song = {
+#	name = "discoveries_revealed"
+#}
+#
+#song = {
+#	name = "undisclosed_tactics"
+#}
+#
+#song = {
+#	name = "undiscovered_territory"
+#}

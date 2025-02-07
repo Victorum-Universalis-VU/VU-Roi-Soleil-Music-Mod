@@ -1,0 +1,974 @@
+#Roi Soleil - France
+song = {
+    name = "air_pour_les_matelots" #Air for sailors
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "ancien_regime" #Ancien Regime
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "armide_opera_prelude" #Armide Opera Prelude
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "cest_lui_dont_les_dieux_ont_fait_choix" #Choisi par les dieux
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "chaconne_des_scaramouches" #Chaconne des Scaramouches
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "entree_des_divinites_infernales" #Entrée des divinités infernales
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "esprits_empresses_a_nous_plaire" #Esprits, Empressés A Nous Plaire
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "j_observe_ces_lieux" #J'observe ces lieux
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_bocanne_compliquee" #La Bocanne compliquée
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_bocanne_primitive" #La Bocanne primitive
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_nuit_ballet_overture" #La Nuit Ballet
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_plaisiers_ballet_sarabande" #La Plaisiers Ballet
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "le_roi_representant_le_soleils_levant" #Le Roi représentant le soleil levant
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "le_sommeil" #Le Sommeil
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "les_airs_de_trompettes_timbales_et_hautbois" #Les Airs de Trompettes, Timbales et Hautbois
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "les_docteurs" #Les Docteurs
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "les_esclaves_dansants" #Les Esclaves Dansants
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "les_follies_d_espagne" #Les Folies d'Espagne
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "les_postures_de_scaramouche" #Air pour les postures de Scaramouche
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "madame_la_dauphine" #Madame La Dauphine
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "madmoiselle_hilaire" #Mademoiselle Hilaire
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "marche_du_royal_soissonais" #Marche du Royal Soissonnais
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "marche_pour_la_ceremonie_des_turcs" #Marche pour la cérémonie des Turcs
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "monsieur_de_turenne" #Monsieur de Turenne
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "ombre_de_mon" #Ombre De Mon Amant
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "ouverture" #Ouverture
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "pascaille" #Pascaille
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "passons_nos_jours_dans_ces_vergers" #Passons nos jours dans ces vergers
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "phaeton_opera" #Phaëton
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "que_leclat_de_son_nom" #Que l'éclat de son nom
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "que_voyez_vous_mes_yeux" #Que voyez-vous mes yeux
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "te_deum_motet_a_deux_choeurs" #Te Deum Motet à deux choeurs
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "te_souviens_tu" #Te souviens-tu
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "timbales_et_hautbois" #Timbales et hautbois
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "triumphe_de_l_amour" #Triumphe de l amour
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+song = {
+    name = "triumphe_de_l_amour_overture" #Ouverture du Triomphe de l'Amour
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1603 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1603
+        }
+        modifier = {
+            factor = 0
+            NOT = { cultural_group = french }
+        }
+        modifier = {
+            factor = 2
+            cultural_group = french
+        }
+    }
+}
+
+############

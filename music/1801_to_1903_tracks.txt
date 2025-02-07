@@ -1,0 +1,381 @@
+#Roi Soleil - France
+song = {
+    name = "adagio" #Adagio
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "adagio_cantabile" #Adagio Cantabile
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "etienne_nicolas_mehul" #Étienne Nicolas Méhul
+    
+    chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1903
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1801 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1801
+		}
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "gretry" #Grétry
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "la_marseillaise" #La Marseillaise
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "la_mort_d_abel" #La mort d'Abel
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "le_chant_du_depart" #Le Chant Du Départ, Hymne De Guerre De 1793
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "le_retour_des_princes_francais_a_paris" #Le Retour des Princes français à Paris
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "messe_solennelle_pour_le_sacre_de_louis_xviii" #Messe solennelle pour le sacre de Louis XVIII
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "n_est_ce_pas_d_elle" #N'est-ce pas d'elle
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente" #Couronnement d'une princesse
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente_allegro" #Oraison pour les princes souverains
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "restauration_bourbon" #Restauration Bourbon
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sophie_gail_bolleros" #Sophie Gail Bolleros
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+
+############

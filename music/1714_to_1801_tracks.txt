@@ -1,0 +1,731 @@
+#Roi Soleil - France
+song = {
+    name = "concert_royal_no_12_part_2" #Concert royal deuxième partie
+    
+    chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1801
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1714 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1714
+		}
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "concert_royal_no_13_part_3" #Concert royal troisième partie
+    
+    chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1801
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1714 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1714
+		}
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2 
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "concert_royal_no_13_part_4" #Concert royal quatrième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "concerto_en_la_5_en_mi_mineur" #Concerto en la cinquième mineur
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "concerto_royal_no_13_part_1" #Concert royal première partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "la_steinkerque_part_1" #La Steinkerque première partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "la_steinkerque_part_2" #La Steinkerque deuxième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "la_steinkerque_part_3" #La Steinkerque troisième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "la_steinkerque_part_4" #La Steinkerque quatrième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "la_steinkerque_part_5" #La Steinkerque cinquième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "marche_pour_la_ceremonie_des_turcs" #Marche pour la cérémonie des Turcs
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_op_9_no_3_part_1" #Sonate en d majeur troisième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_op_9_no_3_part_2" #Sonate en d majeur deuxième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_op_9_no_3_part_3" #Sonate en d majeur troisième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_op_9_no_3_part_4" #Sonate en d majeur quatrième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_part_1" #Sonate en d majeur première partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_part_2" #Sonate en d majeur deuxième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_part_3" #Sonate en d majeur troisième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_part_4" #Sonate en d majeur quatrième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_g_major_part_1" #Sonate en g majeur première partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_g_major_part_2" #Sonate en g majeur deuxième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_g_major_part_3" #Sonate en g majeur troisième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_g_major_part_4" #Sonate en g majeur quatrième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonatille_part_1" #Sonatille première partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonatille_part_2" #Sonatille deuxième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonatille_part_3" #Sonatille troisième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+song = {
+    name = "sonatille_part_4" #Sonatille quatrième partie
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { primary_culture = english }
+        }
+        modifier = {
+            factor = 2
+            primary_culture = english
+        }
+    }
+}
+
+############

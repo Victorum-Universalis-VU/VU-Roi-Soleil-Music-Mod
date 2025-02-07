@@ -1,0 +1,666 @@
+#1444 to 1603
+music = {
+	name = "maintheme"
+	file = "maintheme.ogg"
+}
+
+music = {
+	name = "a_jerusalem"
+	file = "a_jerusalem.ogg"
+}
+
+music = {
+	name = "a_la_claire_fontaine"
+	file = "a_la_claire_fontaine.ogg"
+}
+
+music = {
+	name = "ai_vist_lo_lop"
+	file = "ai_vist_lo_lop.ogg"
+}
+
+music = {
+	name = "au_nom_de_dieu"
+	file = "au_nom_de_dieu.ogg"
+}
+
+music = {
+	name = "branle_de_bourgogne"
+	file = "branle_de_bourgogne.ogg"
+}
+
+music = {
+	name = "branle_de_champagne"
+	file = "branle_de_champagne.ogg"
+}
+
+music = {
+	name = "bransle_de_champaigne"
+	file = "bransle_de_champaigne.ogg"
+}
+
+music = {
+	name = "bruler_le_passe"
+	file = "bruler_le_passe.ogg"
+}
+
+music = {
+	name = "chant_a_sainte_jeanne_d_arc"
+	file = "chant_a_sainte_jeanne_d_arc.ogg"
+}
+
+music = {
+	name = "chevalier_mult_estes_guariz"
+	file = "chevalier_mult_estes_guariz.ogg"
+}
+
+music = {
+	name = "croises"
+	file = "croises.ogg"
+}
+
+music = {
+	name = "dame_jolie"
+	file = "dame_jolie.ogg"
+}
+
+music = {
+	name = "galliard"
+	file = "galliard.ogg"
+}
+
+music = {
+	name = "ibelin"
+	file = "ibelin.ogg"
+}
+
+music = {
+	name = "je_vivroie_liement"
+	file = "je_vivroie_liement.ogg"
+}
+
+music = {
+	name = "jeu_d_epee"
+	file = "jeu_d_epee.ogg"
+}
+
+music = {
+	name = "jhesu_crist_filh_de_diu_viu"
+	file = "jhesu_crist_filh_de_diu_viu.ogg"
+}
+
+music = {
+	name = "krak_des_chevaliers"
+	file = "krak_des_chevaliers.ogg"
+}
+
+music = {
+	name = "l_art_du_psalterion"
+	file = "l_art_du_psalterion.ogg"
+}
+
+music = {
+	name = "le_bouvier"
+	file = "le_bouvier.ogg"
+}
+
+music = {
+	name = "le_roi_louis"
+	file = "le_roi_louis.ogg"
+}
+
+music = {
+	name = "le_roy_anglois"
+	file = "le_roy_anglois.ogg"
+}
+
+music = {
+	name = "le_tourdion"
+	file = "le_tourdion.ogg"
+}
+
+music = {
+	name = "les_adieux_du_cure"
+	file = "les_adieux_du_cure.ogg"
+}
+
+music = {
+	name = "les_francs"
+	file = "les_francs.ogg"
+}
+
+music = {
+	name = "media_vita"
+	file = "media_vita.ogg"
+}
+
+music = {
+	name = "saint_georges"
+	file = "saint_georges.ogg"
+}
+
+music = {
+	name = "un_nouveau_monde"
+	file = "un_nouveau_monde.ogg"
+}
+
+music = {
+	name = "une_chanson_simple_pour_les_roturiers"
+	file = "une_chanson_simple_pour_les_roturiers.ogg"
+}
+
+music = {
+	name = "arbeau_basse"
+	file = "arbeau_basse.ogg"
+}
+
+music = {
+	name = "basse_danse_mappa_mundi"
+	file = "basse_danse_mappa_mundi.ogg"
+}
+
+music = {
+	name = "basse_danse_venus"
+	file = "basse_danse_venus.ogg"
+}
+
+music = {
+	name = "branle_de_bourgoigne"
+	file = "branle_de_bourgoigne.ogg"
+}
+
+music = {
+	name = "branle_des_lavandieres"
+	file = "branle_des_lavandieres.ogg"
+}
+
+music = {
+	name = "bransle_des_chevaux"
+	file = "bransle_des_chevaux.ogg"
+}
+
+music = {
+	name = "chanson_de_la_renaissance"
+	file = "chanson_de_la_renaissance.ogg"
+}
+
+music = {
+	name = "helas_madame"
+	file = "helas_madame.ogg"
+}
+
+music = {
+	name = "instrumentale_tourdion"
+	file = "instrumentale_tourdion.ogg"
+}
+
+music = {
+	name = "la_bataille_de_marignan"
+	file = "la_bataille_de_marignan.ogg"
+}
+
+music = {
+	name = "la_brosse"
+	file = "la_brosse.ogg"
+}
+
+#1603 to 1714
+
+music = {
+	name = "la_guerre"
+	file = "la_guerre.ogg"
+}
+
+music = {
+	name = "la_ville_de_feurs"
+	file = "la_ville_de_feurs.ogg"
+}
+
+music = {
+	name = "le_banquet_du_roy"
+	file = "le_banquet_du_roy.ogg"
+}
+
+music = {
+	name = "le_roy_s_en_va_dela_les_mons"
+	file = "le_roy_s_en_va_dela_les_mons.ogg"
+}
+
+music = {
+	name = "mignonne_de_chardavoine"
+	file = "mignonne_de_chardavoine.ogg"
+}
+
+music = {
+	name = "pavane"
+	file = "pavane.ogg"
+}
+
+music = {
+	name = "quant_la_doulce_jouvencelle"
+	file = "quant_la_doulce_jouvencelle.ogg"
+}
+
+music = {
+	name = "rolandskvadet"
+	file = "rolandskvadet.ogg"
+}
+
+music = {
+	name = "tourdion_quand_je_bois_du_vin_clairet"
+	file = "tourdion_quand_je_bois_du_vin_clairet.ogg"
+}
+
+music = {
+	name = "une_jeune_fillette"
+	file = "une_jeune_fillette.ogg"
+}
+
+music = {
+	name = "une_jeune_pucelle"
+	file = "une_jeune_pucelle.ogg"
+}
+
+music = {
+	name = "vallee_de_la_loire_partie_i"
+	file = "vallee_de_la_loire_partie_i.ogg"
+}
+
+music = {
+	name = "vallee_de_la_loire_partie_ii"
+	file = "vallee_de_la_loire_partie_ii.ogg"
+}
+
+music = {
+	name = "vive_henry_iv"
+	file = "vive_henry_iv.ogg"
+}
+
+music = {
+	name = "air_pour_les_matelots"
+	file = "air_pour_les_matelots.ogg"
+}
+
+music = {
+	name = "ancien_regime"
+	file = "ancien_regime.ogg"
+}
+
+music = {
+	name = "armide_opera_prelude"
+	file = "armide_opera_prelude.ogg"
+}
+
+music = {
+	name = "cest_lui_dont_les_dieux_ont_fait_choix"
+	file = "cest_lui_dont_les_dieux_ont_fait_choix.ogg"
+}
+
+music = {
+	name = "chaconne_des_scaramouches"
+	file = "chaconne_des_scaramouches.ogg"
+}
+
+music = {
+	name = "entree_des_divinites_infernales"
+	file = "entree_des_divinites_infernales.ogg"
+}
+
+music = {
+	name = "esprits_empresses_a_nous_plaire"
+	file = "esprits_empresses_a_nous_plaire.ogg"
+}
+
+music = {
+	name = "j_observe_ces_lieux"
+	file = "j_observe_ces_lieux.ogg"
+}
+
+music = {
+	name = "la_bocanne_compliquee"
+	file = "la_bocanne_compliquee.ogg"
+}
+
+music = {
+	name = "la_bocanne_primitive"
+	file = "la_bocanne_primitive.ogg"
+}
+
+music = {
+	name = "la_nuit_ballet_overture"
+	file = "la_nuit_ballet_overture.ogg"
+}
+
+music = {
+	name = "la_plaisiers_ballet_sarabande"
+	file = "la_plaisiers_ballet_sarabande.ogg"
+}
+
+music = {
+	name = "le_roi_representant_le_soleils_levant"
+	file = "le_roi_representant_le_soleils_levant.ogg"
+}
+
+music = {
+	name = "le_sommeil"
+	file = "le_sommeil.ogg"
+}
+
+music = {
+	name = "les_airs_de_trompettes_timbales_et_hautbois"
+	file = "les_airs_de_trompettes_timbales_et_hautbois.ogg"
+}
+
+music = {
+	name = "les_docteurs"
+	file = "les_docteurs.ogg"
+}
+
+music = {
+	name = "les_esclaves_dansants"
+	file = "les_esclaves_dansants.ogg"
+}
+
+music = {
+	name = "les_follies_d_espagne"
+	file = "les_follies_d_espagne.ogg"
+}
+
+music = {
+	name = "les_postures_de_scaramouche"
+	file = "les_postures_de_scaramouche.ogg"
+}
+
+music = {
+	name = "madame_la_dauphine"
+	file = "madame_la_dauphine.ogg"
+}
+
+music = {
+	name = "madmoiselle_hilaire"
+	file = "madmoiselle_hilaire.ogg"
+}
+
+music = {
+	name = "marche_du_royal_soissonais"
+	file = "marche_du_royal_soissonais.ogg"
+}
+
+music = {
+	name = "marche_pour_la_ceremonie_des_turcs"
+	file = "marche_pour_la_ceremonie_des_turcs.ogg"
+}
+
+music = {
+	name = "monsieur_de_turenne"
+	file = "monsieur_de_turenne.ogg"
+}
+
+music = {
+	name = "ombre_de_mon"
+	file = "ombre_de_mon.ogg"
+}
+
+music = {
+	name = "ouverture"
+	file = "ouverture.ogg"
+}
+
+music = {
+	name = "pascaille"
+	file = "pascaille.ogg"
+}
+
+music = {
+	name = "passons_nos_jours_dans_ces_vergers"
+	file = "passons_nos_jours_dans_ces_vergers.ogg"
+}
+
+music = {
+	name = "phaeton_opera"
+	file = "phaeton_opera.ogg"
+}
+
+music = {
+	name = "que_leclat_de_son_nom"
+	file = "que_leclat_de_son_nom.ogg"
+}
+
+music = {
+	name = "que_voyez_vous_mes_yeux"
+	file = "que_voyez_vous_mes_yeux.ogg"
+}
+
+#1714 to 1801
+
+music = {
+	name = "te_deum_motet_a_deux_choeurs"
+	file = "te_deum_motet_a_deux_choeurs.ogg"
+}
+
+music = {
+	name = "te_souviens_tu"
+	file = "te_souviens_tu.ogg"
+}
+
+music = {
+	name = "timbales_et_hautbois"
+	file = "timbales_et_hautbois.ogg"
+}
+
+music = {
+	name = "triumphe_de_l_amour"
+	file = "triumphe_de_l_amour.ogg"
+}
+
+music = {
+	name = "triumphe_de_l_amour_overture"
+	file = "triumphe_de_l_amour_overture.ogg"
+}
+
+music = {
+	name = "concert_royal_no_12_part_2"
+	file = "concert_royal_no_12_part_2.ogg"
+}
+
+music = {
+	name = "concert_royal_no_13_part_3"
+	file = "concert_royal_no_13_part_3.ogg"
+}
+
+music = {
+	name = "concert_royal_no_13_part_4"
+	file = "concert_royal_no_13_part_4.ogg"
+}
+
+music = {
+	name = "concerto_en_la_5_en_mi_mineur"
+	file = "concerto_en_la_5_en_mi_mineur.ogg"
+}
+
+music = {
+	name = "concerto_royal_no_13_part_1"
+	file = "concerto_royal_no_13_part_1.ogg"
+}
+
+music = {
+	name = "la_steinkerque_part_1"
+	file = "la_steinkerque_part_1.ogg"
+}
+
+music = {
+	name = "la_steinkerque_part_2"
+	file = "la_steinkerque_part_2.ogg"
+}
+
+music = {
+	name = "la_steinkerque_part_3"
+	file = "la_steinkerque_part_3.ogg"
+}
+
+music = {
+	name = "la_steinkerque_part_4"
+	file = "la_steinkerque_part_4.ogg"
+}
+
+music = {
+	name = "la_steinkerque_part_5"
+	file = "la_steinkerque_part_5.ogg"
+}
+
+music = {
+	name = "marche_pour_la_ceremonie_des_turcs"
+	file = "marche_pour_la_ceremonie_des_turcs.ogg"
+}
+
+music = {
+	name = "sonata_in_d_major_op_9_no_3_part_1"
+	file = "sonata_in_d_major_op_9_no_3_part_1.ogg"
+}
+
+music = {
+	name = "sonata_in_d_major_op_9_no_3_part_2"
+	file = "sonata_in_d_major_op_9_no_3_part_2.ogg"
+}
+
+music = {
+	name = "sonata_in_d_major_op_9_no_3_part_3"
+	file = "sonata_in_d_major_op_9_no_3_part_3.ogg"
+}
+
+music = {
+	name = "sonata_in_d_major_op_9_no_3_part_4"
+	file = "sonata_in_d_major_op_9_no_3_part_4.ogg"
+}
+
+music = {
+	name = "sonata_in_d_major_part_1"
+	file = "sonata_in_d_major_part_1.ogg"
+}
+
+music = {
+	name = "sonata_in_d_major_part_2"
+	file = "sonata_in_d_major_part_2.ogg"
+}
+
+music = {
+	name = "sonata_in_d_major_part_3"
+	file = "sonata_in_d_major_part_3.ogg"
+}
+
+music = {
+	name = "sonata_in_d_major_part_4"
+	file = "sonata_in_d_major_part_4.ogg"
+}
+
+music = {
+	name = "sonata_in_g_major_part_1"
+	file = "sonata_in_g_major_part_1.ogg"
+}
+
+music = {
+	name = "sonata_in_g_major_part_2"
+	file = "sonata_in_g_major_part_2.ogg"
+}
+
+music = {
+	name = "sonata_in_g_major_part_3"
+	file = "sonata_in_g_major_part_3.ogg"
+}
+
+music = {
+	name = "sonata_in_g_major_part_4"
+	file = "sonata_in_g_major_part_4.ogg"
+}
+
+music = {
+	name = "sonatille_part_1"
+	file = "sonatille_part_1.ogg"
+}
+
+music = {
+	name = "sonatille_part_2"
+	file = "sonatille_part_2.ogg"
+}
+
+music = {
+	name = "sonatille_part_3"
+	file = "sonatille_part_3.ogg"
+}
+
+music = {
+	name = "sonatille_part_4"
+	file = "sonatille_part_4.ogg"
+}
+
+music = {
+	name = "adagio"
+	file = "adagio.ogg"
+}
+
+music = {
+	name = "adagio_cantabile"
+	file = "adagio_cantabile.ogg"
+}
+
+music = {
+	name = "etienne_nicolas_mehul"
+	file = "etienne_nicolas_mehul.ogg"
+}
+
+music = {
+	name = "gretry"
+	file = "gretry.ogg"
+}
+
+#1801 to 1903
+
+music = {
+	name = "la_marseillaise"
+	file = "la_marseillaise.ogg"
+}
+
+music = {
+	name = "la_mort_d_abel"
+	file = "la_mort_d_abel.ogg"
+}
+
+music = {
+	name = "le_chant_du_depart"
+	file = "le_chant_du_depart.ogg"
+}
+
+music = {
+	name = "le_retour_des_princes_francais_a_paris"
+	file = "le_retour_des_princes_francais_a_paris.ogg"
+}
+
+music = {
+	name = "messe_solennelle_pour_le_sacre_de_louis_xviii"
+	file = "messe_solennelle_pour_le_sacre_de_louis_xviii.ogg"
+}
+
+music = {
+	name = "n_est_ce_pas_d_elle"
+	file = "n_est_ce_pas_d_elle.ogg"
+}
+
+music = {
+	name = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente"
+	file = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente.ogg"
+}
+
+music = {
+	name = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente_allegro"
+	file = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente_allegro.ogg"
+}
+
+music = {
+	name = "restauration_bourbon"
+	file = "restauration_bourbon.ogg"
+}
+
+music = {
+	name = "sophie_gail_bolleros"
+	file = "sophie_gail_bolleros.ogg"
+}
