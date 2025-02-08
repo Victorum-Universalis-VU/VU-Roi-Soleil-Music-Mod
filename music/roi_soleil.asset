@@ -95,11 +95,6 @@ music = {
 }
 
 music = {
-	name = "l_art_du_psalterion"
-	file = "l_art_du_psalterion.ogg"
-}
-
-music = {
 	name = "le_bouvier"
 	file = "le_bouvier.ogg"
 }
@@ -195,30 +190,13 @@ music = {
 }
 
 music = {
-	name = "la_bataille_de_marignan"
-	file = "la_bataille_de_marignan.ogg"
-}
-
-music = {
 	name = "la_brosse"
 	file = "la_brosse.ogg"
-}
-
-#1603 to 1714
-
-music = {
-	name = "la_guerre"
-	file = "la_guerre.ogg"
 }
 
 music = {
 	name = "la_ville_de_feurs"
 	file = "la_ville_de_feurs.ogg"
-}
-
-music = {
-	name = "le_banquet_du_roy"
-	file = "le_banquet_du_roy.ogg"
 }
 
 music = {
@@ -234,6 +212,11 @@ music = {
 music = {
 	name = "pavane"
 	file = "pavane.ogg"
+}
+
+music = {
+    name = "quand_je_bois_du_vin_clairet"
+    file = "quand_je_bois_du_vin_clairet.ogg"
 }
 
 music = {
@@ -257,11 +240,6 @@ music = {
 }
 
 music = {
-	name = "une_jeune_pucelle"
-	file = "une_jeune_pucelle.ogg"
-}
-
-music = {
 	name = "vallee_de_la_loire_partie_i"
 	file = "vallee_de_la_loire_partie_i.ogg"
 }
@@ -275,6 +253,8 @@ music = {
 	name = "vive_henry_iv"
 	file = "vive_henry_iv.ogg"
 }
+
+#1603 to 1714
 
 music = {
 	name = "air_pour_les_matelots"
@@ -372,6 +352,11 @@ music = {
 }
 
 music = {
+    name = "les_terres_saintes"
+    file = "les_terres_saintes.ogg"
+}
+
+music = {
 	name = "madame_la_dauphine"
 	file = "madame_la_dauphine.ogg"
 }
@@ -431,8 +416,6 @@ music = {
 	file = "que_voyez_vous_mes_yeux.ogg"
 }
 
-#1714 to 1801
-
 music = {
 	name = "te_deum_motet_a_deux_choeurs"
 	file = "te_deum_motet_a_deux_choeurs.ogg"
@@ -457,6 +440,8 @@ music = {
 	name = "triumphe_de_l_amour_overture"
 	file = "triumphe_de_l_amour_overture.ogg"
 }
+
+#1714 to 1801
 
 music = {
 	name = "concert_royal_no_12_part_2"
@@ -593,6 +578,8 @@ music = {
 	file = "sonatille_part_4.ogg"
 }
 
+#1801 to 1903
+
 music = {
 	name = "adagio"
 	file = "adagio.ogg"
@@ -612,8 +599,6 @@ music = {
 	name = "gretry"
 	file = "gretry.ogg"
 }
-
-#1801 to 1903
 
 music = {
 	name = "la_marseillaise"
@@ -646,13 +631,13 @@ music = {
 }
 
 music = {
-	name = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente"
-	file = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente.ogg"
+	name = "couronnement_d_une_princesse"
+	file = "couronnement_d_une_princesse.ogg"
 }
 
 music = {
-	name = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente_allegro"
-	file = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente_allegro.ogg"
+	name = "oraison_pour_les_princes_souverains"
+	file = "oraison_pour_les_princes_souverains.ogg"
 }
 
 music = {

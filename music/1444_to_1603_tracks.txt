@@ -1,6 +1,6 @@
 #Roi Soleil - France
 song = {
-    name = "a_jerusalem" #A Jerusalem
+    name = "a_jerusalem"
 
     chance = {
         modifier = {
@@ -13,21 +13,22 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1444
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "a_la_claire_fontaine" #A la claire fontaine
+    name = "a_la_claire_fontaine"
 
     chance = {
         modifier = {
@@ -44,17 +45,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "ai_vist_lo_lop" #Ai vist lo lop
+    name = "ai_vist_lo_lop"
 
     chance = {
         modifier = {
@@ -71,17 +72,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "au_nom_de_dieu" #Au nom de Dieu
+    name = "au_nom_de_dieu"
 
     chance = {
         modifier = {
@@ -94,21 +95,22 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1444
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "branle_de_bourgogne" #Branle de Bourgoigne
+    name = "branle_de_bourgogne"
 
     chance = {
         modifier = {
@@ -125,17 +127,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "branle_de_champagne" #Bransle de Champagne
+    name = "branle_de_champagne"
 
     chance = {
         modifier = {
@@ -152,17 +154,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "bransle_de_champaigne" #Bransle de Champaigne
+    name = "bransle_de_champaigne"
 
     chance = {
         modifier = {
@@ -179,17 +181,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "bruler_le_passe" #Brûler le passé
+    name = "bruler_le_passe"
 
     chance = {
         modifier = {
@@ -206,17 +208,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "chant_a_sainte_jeanne_d_arc" #Chant a Sainte Jeanne d'Arc
+    name = "chant_a_sainte_jeanne_d_arc"
 
     chance = {
         modifier = {
@@ -233,17 +235,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "chevalier_mult_estes_guariz" #Mult Estes Guariz
+    name = "chevalier_mult_estes_guariz"
 
     chance = {
         modifier = {
@@ -260,17 +262,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "croises" #Croises
+    name = "croises"
 
     chance = {
         modifier = {
@@ -287,17 +289,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "dame_jolie" #Dame Jolie
+    name = "dame_jolie"
 
     chance = {
         modifier = {
@@ -314,17 +316,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "galliard" #Galliard
+    name = "galliard"
 
     chance = {
         modifier = {
@@ -341,17 +343,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "ibelin" #Ibelin
+    name = "ibelin"
 
     chance = {
         modifier = {
@@ -368,17 +370,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "je_vivroie_liement" #Je vivroie liement
+    name = "je_vivroie_liement"
 
     chance = {
         modifier = {
@@ -395,17 +397,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "jeu_d_epee" #Jeu d'Epee
+    name = "jeu_d_epee"
 
     chance = {
         modifier = {
@@ -418,21 +420,22 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1444
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "jhesu_crist_filh_de_diu_viu" #Jhesu-Crist, filh de diu viu
+    name = "jhesu_crist_filh_de_diu_viu"
 
     chance = {
         modifier = {
@@ -449,17 +452,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "krak_des_chevaliers" #Krak des Chevaliers
+    name = "krak_des_chevaliers"
 
     chance = {
         modifier = {
@@ -472,21 +475,22 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1444
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "l_art_du_psalterion" #l'art du psalterion
+    name = "le_bouvier"
 
     chance = {
         modifier = {
@@ -503,17 +507,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "le_bouvier" #Le Bouvier
+    name = "le_roi_louis"
 
     chance = {
         modifier = {
@@ -526,21 +530,22 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1444
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "le_roi_louis" #Le Roi Louis
+    name = "le_roy_anglois"
 
     chance = {
         modifier = {
@@ -553,21 +558,22 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1444
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "le_roy_anglois" #main theme
+    name = "le_tourdion"
 
     chance = {
         modifier = {
@@ -584,17 +590,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "le_tourdion" #Le Tourdion
+    name = "les_adieux_du_cure"
 
     chance = {
         modifier = {
@@ -611,17 +617,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "les_adieux_du_cure" #Les adieux du curé
+    name = "les_francs"
 
     chance = {
         modifier = {
@@ -634,42 +640,16 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1444
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
-        }
-    }
-}
-
-song = {
-    name = "les_francs" #Les Francs
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1603
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1444 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1444
-        }
-        modifier = {
-            factor = 0
-            NOT = { cultural_group = french }
-        }
-        modifier = {
-            factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
@@ -692,17 +672,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "media_vita" #Media Vita
+    name = "media_vita"
 
     chance = {
         modifier = {
@@ -719,11 +699,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
@@ -746,17 +726,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "saint_georges" #Saint Georges
+    name = "saint_georges"
 
     chance = {
         modifier = {
@@ -773,17 +753,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "un_nouveau_monde" #Un Nouveau monde
+    name = "un_nouveau_monde"
 
     chance = {
         modifier = {
@@ -800,17 +780,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "une_chanson_simple_pour_les_roturiers" #Une Chanson Simple Pour les Roturiers
+    name = "une_chanson_simple_pour_les_roturiers"
 
     chance = {
         modifier = {
@@ -823,15 +803,16 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1444
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
@@ -839,7 +820,7 @@ song = {
 #1500s to 1600s
 
 song = {
-    name = "arbeau_basse" #Arbeau Basse
+    name = "arbeau_basse"
 
     chance = {
         modifier = {
@@ -856,17 +837,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "basse_danse_mappa_mundi" #Basse danse Mappa Mundi
+    name = "basse_danse_mappa_mundi"
 
     chance = {
         modifier = {
@@ -883,17 +864,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "basse_danse_venus" #Basse danse Venus
+    name = "basse_danse_venus"
 
     chance = {
         modifier = {
@@ -910,17 +891,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "branle_de_bourgoigne" #Branle de Bourgoigne
+    name = "branle_de_bourgoigne"
 
     chance = {
         modifier = {
@@ -937,17 +918,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "branle_des_lavandieres" #Branle des Lavandieres
+    name = "branle_des_lavandieres"
 
     chance = {
         modifier = {
@@ -964,17 +945,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "bransle_des_chevaux" #Bransle des Chevaux
+    name = "bransle_des_chevaux"
 
     chance = {
         modifier = {
@@ -991,17 +972,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "chanson_de_la_renaissance" #Chanson de la Renaissance
+    name = "chanson_de_la_renaissance"
 
     chance = {
         modifier = {
@@ -1018,17 +999,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "helas_madame" #Hélas Madame
+    name = "helas_madame"
 
     chance = {
         modifier = {
@@ -1045,17 +1026,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "instrumentale_tourdion" #Instrumentale Tourdion
+    name = "instrumentale_tourdion"
 
     chance = {
         modifier = {
@@ -1072,17 +1053,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_bataille_de_marignan" #La Bataille de Marignan
+    name = "la_brosse"
 
     chance = {
         modifier = {
@@ -1099,17 +1080,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_brosse" #La Brosse
+    name = "la_ville_de_feurs"
 
     chance = {
         modifier = {
@@ -1122,21 +1103,22 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1500
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_guerre" #La Guerre
+    name = "le_roy_s_en_va_dela_les_mons"
 
     chance = {
         modifier = {
@@ -1149,21 +1131,22 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1500
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_ville_de_feurs" #La Ville de feurs
+    name = "mignonne_de_chardavoine"
 
     chance = {
         modifier = {
@@ -1180,17 +1163,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "le_banquet_du_roy" #Le Banquet du Roy
+    name = "pavane"
 
     chance = {
         modifier = {
@@ -1207,17 +1190,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "le_roy_s_en_va_dela_les_mons" #Le Roys en va dela les Mons
+    name = "quant_la_doulce_jouvencelle"
 
     chance = {
         modifier = {
@@ -1234,17 +1217,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "mignonne_de_chardavoine" #Mignonne de Chardavoine
+    name = "rolandskvadet"
 
     chance = {
         modifier = {
@@ -1257,21 +1240,22 @@ song = {
         }
         modifier = {
             factor = 2
+            is_at_war = yes
             is_year = 1500
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "pavane" #Pavane
+    name = "tourdion_quand_je_bois_du_vin_clairet"
 
     chance = {
         modifier = {
@@ -1288,17 +1272,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "quant_la_doulce_jouvencelle" #La doulce Jouvencelle
+    name = "une_jeune_fillette"
 
     chance = {
         modifier = {
@@ -1315,17 +1299,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "rolandskvadet" #Rolandskvadet
+    name = "vallee_de_la_loire_partie_i"
 
     chance = {
         modifier = {
@@ -1342,17 +1326,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "tourdion_quand_je_bois_du_vin_clairet" #Tourdion quand je bois du vin clairet
+    name = "vallee_de_la_loire_partie_ii"
 
     chance = {
         modifier = {
@@ -1369,17 +1353,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "une_jeune_fillette" #Une Jeune Fillette
+    name = "vive_henry_iv"
 
     chance = {
         modifier = {
@@ -1396,119 +1380,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
-        }
-    }
-}
-
-song = {
-    name = "une_jeune_pucelle" #Une Jeune Pucelle
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1603
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1500 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1500
-        }
-        modifier = {
-            factor = 0
-            NOT = { cultural_group = french }
-        }
-        modifier = {
-            factor = 2
-            cultural_group = french
-        }
-    }
-}
-
-song = {
-    name = "vallee_de_la_loire_partie_i" #Vallee de la loire première partie
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1603
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1500 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1500
-        }
-        modifier = {
-            factor = 0
-            NOT = { cultural_group = french }
-        }
-        modifier = {
-            factor = 2
-            cultural_group = french
-        }
-    }
-}
-
-song = {
-    name = "vallee_de_la_loire_partie_ii" #Vallee de la loire première deuxième partie
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1603
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1500 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1500
-        }
-        modifier = {
-            factor = 0
-            NOT = { cultural_group = french }
-        }
-        modifier = {
-            factor = 2
-            cultural_group = french
-        }
-    }
-}
-
-song = {
-    name = "vive_henry_iv" #Vive Henry IV
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1603
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1500 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1500
-        }
-        modifier = {
-            factor = 0
-            NOT = { cultural_group = french }
-        }
-        modifier = {
-            factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }

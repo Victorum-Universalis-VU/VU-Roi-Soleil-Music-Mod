@@ -1,6 +1,6 @@
 #Roi Soleil - France
 song = {
-    name = "adagio" #Adagio
+    name = "adagio"
 
     chance = {
         modifier = {
@@ -17,17 +17,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "adagio_cantabile" #Adagio Cantabile
+    name = "adagio_cantabile"
 
     chance = {
         modifier = {
@@ -44,17 +44,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "etienne_nicolas_mehul" #Étienne Nicolas Méhul
+    name = "etienne_nicolas_mehul"
     
     chance = {
 	    modifier = {
@@ -71,17 +71,17 @@ song = {
 		}
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2 
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "gretry" #Grétry
+    name = "gretry"
 
     chance = {
         modifier = {
@@ -98,17 +98,45 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_marseillaise" #La Marseillaise
+    name = "la_marseillaise"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_mort_d_abel"
 
     chance = {
         modifier = {
@@ -125,17 +153,45 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_mort_d_abel" #La mort d'Abel
+    name = "le_chant_du_depart"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "le_retour_des_princes_francais_a_paris"
 
     chance = {
         modifier = {
@@ -152,17 +208,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "le_chant_du_depart" #Le Chant Du Départ, Hymne De Guerre De 1793
+    name = "messe_solennelle_pour_le_sacre_de_louis_xviii"
 
     chance = {
         modifier = {
@@ -179,17 +235,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "le_retour_des_princes_francais_a_paris" #Le Retour des Princes français à Paris
+    name = "n_est_ce_pas_d_elle"
 
     chance = {
         modifier = {
@@ -206,17 +262,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "messe_solennelle_pour_le_sacre_de_louis_xviii" #Messe solennelle pour le sacre de Louis XVIII
+    name = "couronnement_d_une_princesse"
 
     chance = {
         modifier = {
@@ -233,17 +289,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "n_est_ce_pas_d_elle" #N'est-ce pas d'elle
+    name = "oraison_pour_les_princes_souverains"
 
     chance = {
         modifier = {
@@ -260,17 +316,45 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente" #Couronnement d'une princesse
+    name = "restauration_bourbon"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1903
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1801 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sophie_gail_bolleros"
 
     chance = {
         modifier = {
@@ -287,92 +371,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
-        }
-    }
-}
-
-song = {
-    name = "oratorio_pour_le_couronnement_des_princes_souverains_de_toute_la_chretiente_allegro" #Oraison pour les princes souverains
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1903
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1801 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { cultural_group = french }
-        }
-        modifier = {
-            factor = 2
-            cultural_group = french
-        }
-    }
-}
-
-song = {
-    name = "restauration_bourbon" #Restauration Bourbon
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1903
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1801 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { cultural_group = french }
-        }
-        modifier = {
-            factor = 2
-            cultural_group = french
-        }
-    }
-}
-
-song = {
-    name = "sophie_gail_bolleros" #Sophie Gail Bolleros
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1903
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1801 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { cultural_group = french }
-        }
-        modifier = {
-            factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }

@@ -1,6 +1,6 @@
 #Roi Soleil - France
 song = {
-    name = "concert_royal_no_12_part_2" #Concert royal deuxième partie
+    name = "concert_royal_no_12_part_2"
     
     chance = {
 	    modifier = {
@@ -17,17 +17,17 @@ song = {
 		}
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2 
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "concert_royal_no_13_part_3" #Concert royal troisième partie
+    name = "concert_royal_no_13_part_3"
     
     chance = {
 	    modifier = {
@@ -44,17 +44,17 @@ song = {
 		}
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2 
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "concert_royal_no_13_part_4" #Concert royal quatrième partie
+    name = "concert_royal_no_13_part_4"
 
     chance = {
         modifier = {
@@ -71,17 +71,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "concerto_en_la_5_en_mi_mineur" #Concerto en la cinquième mineur
+    name = "concerto_en_la_5_en_mi_mineur"
 
     chance = {
         modifier = {
@@ -98,17 +98,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "concerto_royal_no_13_part_1" #Concert royal première partie
+    name = "concerto_royal_no_13_part_1"
 
     chance = {
         modifier = {
@@ -125,17 +125,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_steinkerque_part_1" #La Steinkerque première partie
+    name = "la_steinkerque_part_1"
 
     chance = {
         modifier = {
@@ -152,17 +152,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_steinkerque_part_2" #La Steinkerque deuxième partie
+    name = "la_steinkerque_part_2"
 
     chance = {
         modifier = {
@@ -179,17 +179,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_steinkerque_part_3" #La Steinkerque troisième partie
+    name = "la_steinkerque_part_3"
 
     chance = {
         modifier = {
@@ -206,17 +206,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_steinkerque_part_4" #La Steinkerque quatrième partie
+    name = "la_steinkerque_part_4"
 
     chance = {
         modifier = {
@@ -233,17 +233,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "la_steinkerque_part_5" #La Steinkerque cinquième partie
+    name = "la_steinkerque_part_5"
 
     chance = {
         modifier = {
@@ -260,17 +260,45 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "marche_pour_la_ceremonie_des_turcs" #Marche pour la cérémonie des Turcs
+    name = "marche_pour_la_ceremonie_des_turcs"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1801
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1714 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1714
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_op_9_no_3_part_1"
 
     chance = {
         modifier = {
@@ -287,17 +315,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_d_major_op_9_no_3_part_1" #Sonate en d majeur troisième partie
+    name = "sonata_in_d_major_op_9_no_3_part_2"
 
     chance = {
         modifier = {
@@ -314,17 +342,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_d_major_op_9_no_3_part_2" #Sonate en d majeur deuxième partie
+    name = "sonata_in_d_major_op_9_no_3_part_3"
 
     chance = {
         modifier = {
@@ -341,17 +369,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_d_major_op_9_no_3_part_3" #Sonate en d majeur troisième partie
+    name = "sonata_in_d_major_op_9_no_3_part_4"
 
     chance = {
         modifier = {
@@ -368,17 +396,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_d_major_op_9_no_3_part_4" #Sonate en d majeur quatrième partie
+    name = "sonata_in_d_major_part_1"
 
     chance = {
         modifier = {
@@ -395,17 +423,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_d_major_part_1" #Sonate en d majeur première partie
+    name = "sonata_in_d_major_part_2"
 
     chance = {
         modifier = {
@@ -422,17 +450,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_d_major_part_2" #Sonate en d majeur deuxième partie
+    name = "sonata_in_d_major_part_3"
 
     chance = {
         modifier = {
@@ -449,17 +477,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_d_major_part_3" #Sonate en d majeur troisième partie
+    name = "sonata_in_d_major_part_4"
 
     chance = {
         modifier = {
@@ -476,17 +504,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_d_major_part_4" #Sonate en d majeur quatrième partie
+    name = "sonata_in_g_major_part_1"
 
     chance = {
         modifier = {
@@ -503,17 +531,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_g_major_part_1" #Sonate en g majeur première partie
+    name = "sonata_in_g_major_part_2"
 
     chance = {
         modifier = {
@@ -530,17 +558,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_g_major_part_2" #Sonate en g majeur deuxième partie
+    name = "sonata_in_g_major_part_3"
 
     chance = {
         modifier = {
@@ -557,17 +585,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_g_major_part_3" #Sonate en g majeur troisième partie
+    name = "sonata_in_g_major_part_4"
 
     chance = {
         modifier = {
@@ -584,17 +612,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonata_in_g_major_part_4" #Sonate en g majeur quatrième partie
+    name = "sonatille_part_1"
 
     chance = {
         modifier = {
@@ -611,17 +639,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonatille_part_1" #Sonatille première partie
+    name = "sonatille_part_2"
 
     chance = {
         modifier = {
@@ -638,17 +666,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonatille_part_2" #Sonatille deuxième partie
+    name = "sonatille_part_3"
 
     chance = {
         modifier = {
@@ -665,17 +693,17 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
 
 song = {
-    name = "sonatille_part_3" #Sonatille troisième partie
+    name = "sonatille_part_4"
 
     chance = {
         modifier = {
@@ -692,38 +720,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { cultural_group = french }
+            NOT = { culture_group = french }
         }
         modifier = {
             factor = 2
-            cultural_group = french
-        }
-    }
-}
-
-song = {
-    name = "sonatille_part_4" #Sonatille quatrième partie
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1714 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1714
-        }
-        modifier = {
-            factor = 0
-            NOT = { cultural_group = french }
-        }
-        modifier = {
-            factor = 2
-            cultural_group = french
+            culture_group = french
         }
     }
 }
