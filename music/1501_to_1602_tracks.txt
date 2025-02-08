@@ -1,0 +1,572 @@
+#Roi Soleil - France
+song = {
+    name = "arbeau_basse"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "basse_danse_mappa_mundi"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "basse_danse_venus"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "branle_de_bourgoigne"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "branle_des_lavandieres"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "bransle_des_chevaux"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "chanson_de_la_renaissance"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "helas_madame"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "instrumentale_tourdion"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_brosse"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_ville_de_feurs"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "le_roy_s_en_va_dela_les_mons"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "mignonne_de_chardavoine"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "pavane"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "quant_la_doulce_jouvencelle"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "rolandskvadet"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "tourdion_quand_je_bois_du_vin_clairet"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "une_jeune_fillette"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "vallee_de_la_loire_partie_i"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "vallee_de_la_loire_partie_ii"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "vive_henry_iv"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1602
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1501 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+############

@@ -9,11 +9,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -36,11 +36,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -63,11 +63,11 @@ song = {
         }
 		modifier = {
 			factor = 0
-			NOT = { is_year = 1801 }
+			NOT = { is_year = 1804 }
 		}
 		modifier = {
 			factor = 2
-			is_year = 1801
+			is_year = 1804
 		}
         modifier = {
             factor = 0
@@ -90,11 +90,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -117,12 +117,12 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
             is_at_war = yes
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -145,11 +145,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -172,12 +172,12 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
             is_at_war = yes
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -200,11 +200,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -227,11 +227,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -254,11 +254,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -281,11 +281,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -308,11 +308,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -335,12 +335,12 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
             is_at_war = yes
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0
@@ -363,11 +363,11 @@ song = {
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1801 }
+            NOT = { is_year = 1804 }
         }
         modifier = {
             factor = 2
-            is_year = 1801
+            is_year = 1804
         }
         modifier = {
             factor = 0

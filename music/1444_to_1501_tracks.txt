@@ -1,290 +1,20 @@
 #Roi Soleil - France
 song = {
-    name = "concert_royal_no_12_part_2"
-    
-    chance = {
-	    modifier = {
-            factor = 0
-            is_year = 1801
-        }
-		modifier = {
-			factor = 0
-			NOT = { is_year = 1714 }
-		}
-		modifier = {
-			factor = 2
-			is_year = 1714
-		}
-        modifier = {
-            factor = 0
-            NOT = { culture_group = french }
-        }
-        modifier = {
-            factor = 2 
-            culture_group = french
-        }
-    }
-}
-
-song = {
-    name = "concert_royal_no_13_part_3"
-    
-    chance = {
-	    modifier = {
-            factor = 0
-            is_year = 1801
-        }
-		modifier = {
-			factor = 0
-			NOT = { is_year = 1714 }
-		}
-		modifier = {
-			factor = 2
-			is_year = 1714
-		}
-        modifier = {
-            factor = 0
-            NOT = { culture_group = french }
-        }
-        modifier = {
-            factor = 2 
-            culture_group = french
-        }
-    }
-}
-
-song = {
-    name = "concert_royal_no_13_part_4"
+    name = "a_jerusalem"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1714
-        }
-        modifier = {
-            factor = 0
-            NOT = { culture_group = french }
-        }
-        modifier = {
-            factor = 2
-            culture_group = french
-        }
-    }
-}
-
-song = {
-    name = "concerto_en_la_5_en_mi_mineur"
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1714 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1714
-        }
-        modifier = {
-            factor = 0
-            NOT = { culture_group = french }
-        }
-        modifier = {
-            factor = 2
-            culture_group = french
-        }
-    }
-}
-
-song = {
-    name = "concerto_royal_no_13_part_1"
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1714 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1714
-        }
-        modifier = {
-            factor = 0
-            NOT = { culture_group = french }
-        }
-        modifier = {
-            factor = 2
-            culture_group = french
-        }
-    }
-}
-
-song = {
-    name = "la_steinkerque_part_1"
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1714 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1714
-        }
-        modifier = {
-            factor = 0
-            NOT = { culture_group = french }
-        }
-        modifier = {
-            factor = 2
-            culture_group = french
-        }
-    }
-}
-
-song = {
-    name = "la_steinkerque_part_2"
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1714 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1714
-        }
-        modifier = {
-            factor = 0
-            NOT = { culture_group = french }
-        }
-        modifier = {
-            factor = 2
-            culture_group = french
-        }
-    }
-}
-
-song = {
-    name = "la_steinkerque_part_3"
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1714 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1714
-        }
-        modifier = {
-            factor = 0
-            NOT = { culture_group = french }
-        }
-        modifier = {
-            factor = 2
-            culture_group = french
-        }
-    }
-}
-
-song = {
-    name = "la_steinkerque_part_4"
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1714 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1714
-        }
-        modifier = {
-            factor = 0
-            NOT = { culture_group = french }
-        }
-        modifier = {
-            factor = 2
-            culture_group = french
-        }
-    }
-}
-
-song = {
-    name = "la_steinkerque_part_5"
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1714 }
-        }
-        modifier = {
-            factor = 2
-            is_year = 1714
-        }
-        modifier = {
-            factor = 0
-            NOT = { culture_group = french }
-        }
-        modifier = {
-            factor = 2
-            culture_group = french
-        }
-    }
-}
-
-song = {
-    name = "marche_pour_la_ceremonie_des_turcs"
-
-    chance = {
-        modifier = {
-            factor = 0
-            is_year = 1801
-        }
-        modifier = {
-            factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
             is_at_war = yes
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -298,20 +28,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_d_major_op_9_no_3_part_1"
+    name = "a_la_claire_fontaine"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -325,20 +55,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_d_major_op_9_no_3_part_2"
+    name = "ai_vist_lo_lop"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -352,20 +82,21 @@ song = {
 }
 
 song = {
-    name = "sonata_in_d_major_op_9_no_3_part_3"
+    name = "au_nom_de_dieu"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_at_war = yes
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -379,20 +110,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_d_major_op_9_no_3_part_4"
+    name = "branle_de_bourgogne"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -406,20 +137,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_d_major_part_1"
+    name = "branle_de_champagne"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -433,20 +164,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_d_major_part_2"
+    name = "bransle_de_champaigne"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -460,20 +191,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_d_major_part_3"
+    name = "bruler_le_passe"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -487,20 +218,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_d_major_part_4"
+    name = "chant_a_sainte_jeanne_d_arc"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -514,20 +245,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_g_major_part_1"
+    name = "chevalier_mult_estes_guariz"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -541,20 +272,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_g_major_part_2"
+    name = "croises"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -568,20 +299,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_g_major_part_3"
+    name = "dame_jolie"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -595,20 +326,20 @@ song = {
 }
 
 song = {
-    name = "sonata_in_g_major_part_4"
+    name = "galliard"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -622,20 +353,20 @@ song = {
 }
 
 song = {
-    name = "sonatille_part_1"
+    name = "ibelin"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -649,20 +380,20 @@ song = {
 }
 
 song = {
-    name = "sonatille_part_2"
+    name = "je_vivroie_liement"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -676,20 +407,21 @@ song = {
 }
 
 song = {
-    name = "sonatille_part_3"
+    name = "jeu_d_epee"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_at_war = yes
+            is_year = 1444
         }
         modifier = {
             factor = 0
@@ -703,20 +435,376 @@ song = {
 }
 
 song = {
-    name = "sonatille_part_4"
+    name = "jhesu_crist_filh_de_diu_viu"
 
     chance = {
         modifier = {
             factor = 0
-            is_year = 1801
+            is_year = 1501
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1714 }
+            NOT = { is_year = 1444 }
         }
         modifier = {
             factor = 2
-            is_year = 1714
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "krak_des_chevaliers"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "le_bouvier"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "le_roi_louis"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "le_roy_anglois"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "le_tourdion"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "les_adieux_du_cure"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "les_francs"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "les_terres_saintes"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "media_vita"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "quand_je_bois_du_vin_clairet"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "saint_georges"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "un_nouveau_monde"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1444
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "une_chanson_simple_pour_les_roturiers"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1501
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1444 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1444
         }
         modifier = {
             factor = 0

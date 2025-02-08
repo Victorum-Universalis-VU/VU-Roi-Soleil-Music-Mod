@@ -1,11 +1,12 @@
 ﻿l_english:
- #SONG NAMES - Added in Songs of Empire by San Felipe
- #New English Music by San Felipe
- CHANNEL_music_1444_to_1603_tracks:0 "1444 to 1603"
- CHANNEL_music_1603_to_1714_tracks:0 "1603 to 1714"
- CHANNEL_music_1714_to_1801_tracks:0 "1714 to 1801"
- CHANNEL_music_1801_to_1903_tracks:0 "1801 to 1903"
- CHANNEL_music_Time_Spanning:0 "Time Spanning"
+ #SONG NAMES - Added in Roi Soleil by San Felipe
+ #New French Music by San Felipe
+ CHANNEL_music_1444_to_1501_tracks:0 "1444 to 1501"
+ CHANNEL_music_1501_to_1602_tracks:0 "1501 to 1602"
+ CHANNEL_music_1602_to_1713_tracks:0 "1602 to 1713"
+ CHANNEL_music_1713_to_1804_tracks:0 "1713 to 1804"
+ CHANNEL_music_1804_to_1903_tracks:0 "1804 to 1903"
+ #1444 to 1501
  a_jerusalem:0 "A Jerusalem"
  a_la_claire_fontaine:0 "A la claire fontaine"
  ai_vist_lo_lop:0 "Ai vist lo lop"
@@ -36,6 +37,7 @@
  saint_georges:0 "Saint Georges"
  un_nouveau_monde:0 "Un Nouveau monde"
  une_chanson_simple_pour_les_roturiers:0 "Une Chanson Simple Pour les Roturiers"
+ #1501 to 1602
  arbeau_basse:0 "Arbeau Basse"
  basse_danse_mappa_mundi:0 "Basse danse Mappa Mundi"
  basse_danse_venus:0 "Basse danse Venus"
@@ -61,6 +63,7 @@
  vallee_de_la_loire_partie_i:0 "Vallee de la loire première partie"
  vallee_de_la_loire_partie_ii:0 "Vallee de la loire première deuxième partie"
  vive_henry_iv:0 "Vive Henry IV"
+ #1602 to 1713
  air_pour_les_matelots:0 "Air Pour les Matelots"
  ancien_regime:0 "Ancien Regime"
  armide_opera_prelude:0 "Armide Opera Prelude"
@@ -69,8 +72,7 @@
  entree_des_divinites_infernales:0 "Entrée des divinités infernales"
  esprits_empresses_a_nous_plaire:0 "Esprits, Empressés A Nous Plaire"
  j_observe_ces_lieux:0 "J'observe ces lieux"
- la_bocanne_compliquee:0 "La Bocanne compliquée"
- la_bocanne_primitive:0 "La Bocanne primitive"
+ la_bocanne_primitive:0 "La Bocanne Compliquée"
  la_nuit_ballet_overture:0 "La Nuit Ballet"
  la_plaisiers_ballet_sarabande:0 "La Plaisiers Ballet"
  le_roi_representant_le_soleils_levant:0 "Le Roi représentant le soleil levant"
@@ -97,6 +99,7 @@
  timbales_et_hautbois:0 "Timbales et hautbois"
  triumphe_de_l_amour:0 "Triumphe de l amour"
  triumphe_de_l_amour_overture:0 "Ouverture du Triomphe de l'Amour"
+ #1713 to 1804
  concert_royal_no_12_part_2:0 "Concert royal deuxième partie"
  concert_royal_no_13_part_3:0 "Concert royal troisième partie"
  concert_royal_no_13_part_4:0 "Concert royal quatrième partie"
@@ -124,7 +127,7 @@
  sonatille_part_2:0 "Sonatille deuxième partie"
  sonatille_part_3:0 "Sonatille troisième partie"
  sonatille_part_4:0 "Sonatille quatrième partie"
- vive_henri_iv:0 "Vive Henri IV"
+ #1804 to 1903
  adagio:0 "Adagio"
  adagio_cantabile:0 "Adagio Cantabile"
  etienne_nicolas_mehul:0 "Étienne Nicolas Méhul"

@@ -1,0 +1,732 @@
+#Roi Soleil - France
+song = {
+    name = "concert_royal_no_12_part_2"
+    
+    chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1804
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1713 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1713
+		}
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2 
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "concert_royal_no_13_part_3"
+    
+    chance = {
+	    modifier = {
+            factor = 0
+            is_year = 1804
+        }
+		modifier = {
+			factor = 0
+			NOT = { is_year = 1713 }
+		}
+		modifier = {
+			factor = 2
+			is_year = 1713
+		}
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2 
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "concert_royal_no_13_part_4"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "concerto_en_la_5_en_mi_mineur"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "concerto_royal_no_13_part_1"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_steinkerque_part_1"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_steinkerque_part_2"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_steinkerque_part_3"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_steinkerque_part_4"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "la_steinkerque_part_5"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "marche_pour_la_ceremonie_des_turcs"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_at_war = yes
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_op_9_no_3_part_1"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_op_9_no_3_part_2"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_op_9_no_3_part_3"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_op_9_no_3_part_4"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_part_1"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_part_2"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_part_3"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_d_major_part_4"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_g_major_part_1"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_g_major_part_2"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_g_major_part_3"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonata_in_g_major_part_4"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonatille_part_1"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonatille_part_2"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonatille_part_3"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+song = {
+    name = "sonatille_part_4"
+
+    chance = {
+        modifier = {
+            factor = 0
+            is_year = 1804
+        }
+        modifier = {
+            factor = 0
+            NOT = { is_year = 1713 }
+        }
+        modifier = {
+            factor = 2
+            is_year = 1713
+        }
+        modifier = {
+            factor = 0
+            NOT = { culture_group = french }
+        }
+        modifier = {
+            factor = 2
+            culture_group = french
+        }
+    }
+}
+
+############

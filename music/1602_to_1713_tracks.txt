@@ -5,15 +5,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -32,15 +32,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -59,16 +59,16 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
             is_at_war = yes
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -87,15 +87,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -114,15 +114,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -141,16 +141,16 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
             is_at_war = yes
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -169,15 +169,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -196,15 +196,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -223,15 +223,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -250,16 +250,16 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
             is_at_war = yes
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -278,15 +278,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -305,15 +305,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -332,15 +332,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -359,15 +359,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -386,15 +386,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -413,15 +413,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -440,15 +440,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -467,15 +467,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -494,16 +494,16 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
             is_at_war = yes
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -522,15 +522,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -549,16 +549,16 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
             is_at_war = yes
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -577,15 +577,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -604,15 +604,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -631,15 +631,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -658,15 +658,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -685,15 +685,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -712,15 +712,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -739,15 +739,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -766,15 +766,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -793,15 +793,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -820,15 +820,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -847,15 +847,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -874,16 +874,16 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
             is_at_war = yes
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -902,15 +902,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
@@ -929,15 +929,15 @@ song = {
     chance = {
         modifier = {
             factor = 0
-            is_year = 1714
+            is_year = 1713
         }
         modifier = {
             factor = 0
-            NOT = { is_year = 1603 }
+            NOT = { is_year = 1602 }
         }
         modifier = {
             factor = 2
-            is_year = 1603
+            is_year = 1602
         }
         modifier = {
             factor = 0
