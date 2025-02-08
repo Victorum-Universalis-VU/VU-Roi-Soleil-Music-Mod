@@ -297,11 +297,6 @@ music = {
 }
 
 music = {
-	name = "la_bocanne_compliquee"
-	file = "la_bocanne_compliquee.ogg"
-}
-
-music = {
 	name = "la_bocanne_primitive"
 	file = "la_bocanne_primitive.ogg"
 }
